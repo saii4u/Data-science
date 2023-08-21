@@ -1,3 +1,0 @@
-# Data-science
-## ds
-### assignments
